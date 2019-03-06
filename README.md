@@ -1622,9 +1622,6 @@ header {
      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBQ8UuCXFfZ6FA7vCeXEhcvw4SM4UaxTiY &callback=initMap">
      </script>
 
-  </article>
-
-
 
 </body>
 </html>
